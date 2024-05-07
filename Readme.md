@@ -305,7 +305,7 @@ Defines classes for UI elements such as buttons, panels, and dropdowns.
 1. **Clone the Repository:**
 
 ```shell
-git clone https://github.com/hamudib12/Traveling-Fan-Problem
+git clone https://github.com/m0radt/Traveling-Fan-Problem.git
 cd Traveling-Fan-Problem
 ```
 
@@ -322,7 +322,7 @@ python main.py
 #### or:
 
 ```shell
-git clone https://github.com/hamudib12/Traveling-Fan-Problem
+git clone https://github.com/m0radt/Traveling-Fan-Problem.git
 cd Traveling-Fan-Problem
 ```
 
